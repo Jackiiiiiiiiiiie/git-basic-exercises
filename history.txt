@@ -1,0 +1,236 @@
+    1  git clone https://Leshego@bitbucket.org/leshego/medihelp.git
+    2  git clone https://Leshego@bitbucket.org/leshego/medihelp.git
+    3  git clone https://Leshego@bitbucket.org/leshego/medihelp.git
+    4  git clone https://Leshego@bitbucket.org/leshego/medihelp.git
+    5  git clone https://Leshego@bitbucket.org/leshego/medihelp.git~
+    6  ls
+    7  ls/
+    8  ls/data
+    9  ls/start menu
+   10  ls/etc/perl
+   11  ls/miniconda2
+   12  ls/miniconda2/
+   13  ls / documents
+   14  ls /data
+   15  ls/documents
+   16  ls / data
+   17  ls / 
+   18  ls/
+   19  ls / 
+   20  pwd
+   21  mkdir Lethabo_Jackiiiiiiiiie
+   22  cd Lethabo_Jackiiiiiiiiie
+   23  cd home
+   24  mkdir Jacqueline
+   25  cd Jacqueline
+   26  Jacqueline$
+   27  man
+   28  cd ..
+   29  cd Jacqueline
+   30  cd ../..
+   31  man ls
+   32  mkdir git-basic-excercises
+   33  mkdir git-basic-excercises
+   34  cd home
+   35  pwd
+   36  cd root
+   37  mkdir git-basic-excercises
+   38  cd/
+   39  cd\
+   40  cdmkdir git-basic-excercises
+   41  mkdir git-basic-excercises
+   42  ls
+   43  git config
+   44  git init
+   45  git reset
+   46  git status
+   47  git config --global user.name "Lethabo Jacqueline Molobela
+   48  git config --global user.name "Lethabo Jacqueline Molobela"
+   49  git config --global user.email molobelajacqueline@gmail.com
+   50  pwd
+   51  git config list
+   52  git config --list
+   53  pwd
+   54  pwd
+   55  git config user.name "Lethabo Jacqueline Molobela
+   56  git config user.name "Lethabo Jacqueline Molobela"
+   57  mkdir git-basic-excercises
+   58  git branch
+   59  git branch milkshake-flavours
+   60  git branch milkshake-flavours
+   61  cd ..
+   62  git branch 
+   63  git branch milkshake-flavours
+   64  git branch
+   65  git checkout milkshake-flavours
+   66  nano milkshakes.md
+   67  git status
+   68  git add milkshakes.md
+   69  git commit -m "added initial flavours"
+   70  git log
+   71  git status
+   72  git add README.md
+   73  git commit -m "second commit"
+   74  git status
+   75  git log
+   76  git checkout main
+   77  git checkout milkshake-flavours
+   78  git checkout git-basic-excercises
+   79  git checkout Git Basic Excercises
+   80  git checkout git-basic-excercises
+   81  git checkout main
+   82  cd ..
+   83  git status
+   84  git add 
+   85  git add git-basic-excercises
+   86  git log
+   87  git checkout main
+   88  git checkout -b history
+   89  git log
+   90  history>history.txt
+   91  git add history.txt
+   92  git commit -m "added history"
+   93  git log
+   94  git checkout milkshake-flavours
+   95  cd ..
+   96  cd.
+   97  cd 
+   98  cd .
+   99  cd //Desktop/Git Basic Excercises
+  100  cd /Desktop/Git Basic Excercises
+  101  cd /Desktop
+  102  mkdir git-basic-excercises
+  103  cd git-basic-excercises
+  104  git status
+  105  ls -a
+  106  git init
+  107  ls -a
+  108  git status
+  109  touch README.md
+  110  ls -a
+  111  git status
+  112  git log
+  113  git add README.md 
+  114  git status
+  115  git reset README.md
+  116  git commit -m "initial commit"
+  117  git add README.MD
+  118  git status
+  119  git add README.md
+  120  git status
+  121  git commit -m "initial commit"
+  122  git log
+  123  q
+  124  :q
+  125  q
+  126  :wq
+  127  git log
+  128  q
+  129  :q
+  130  :q
+  131  nano README.md
+  132  cat README.md
+  133  git status
+  134  git add README.md
+  135  git commit -m 
+  136  'git commit -m "second commit"
+  137  nano README.md
+  138  cat README.md
+  139  q
+  140  nano README.md
+  141  cat README.md
+  142  git status
+  143  git commit -m "third commit"
+  144  git log
+  145  :Q
+  146  git checkout 4d1a4671345af41aa53f3390dfb451258682c958
+  147  cat README.md
+  148  git checkout main
+  149  git checkout 4d1a4671345af41aa53f3390dfb451258682c958
+  150  cat README.md
+  151  git branch
+  152  git branch milkshake-flavours
+  153  git branch -d milkshake-flavours
+  154  cd git-basic-excercises
+  155  cd
+  156  cd/Desktop/Git Basic Excercises/git-basic-excercises
+  157  cd /Desktop/Git Basic Excercises/git-basic-excercises
+  158  cd /c/Desktop/Git Basic Excercises/git-basic-excercises
+  159  cd ..
+  160  cd ..
+  161  pwd
+  162  [200~
+  163  Initialized empty Git repository in C:/Users/27793/Desktop/Git Basic Excercises/git-basic-excercises/.git/
+  164  27793@DESKTOP-FG3Q85N MINGW64 ~/Desktop/Git Basic Excercises/git-basic-excercises (master)
+  165  On branch master
+  166  27793@DESKTOP-FG3Q85N MINGW64 ~/Desktop/Git Basic Excercises/git-basic-excercises (master)
+  167  $ :q
+  168  27793@DESKTOP-FG3Q85N MINGW64 ~/Desktop/Git Basic Excercises/git-basic-excercises (master)
+  169    (use "git restore --staged <file>..." to unstage)
+  170  state without impacting any branches by switching back to a branch.
+  171  27793@DESKTOP-FG3Q85N MINGW64 ~
+  172  git checkout milkshake-flavours
+  173  git log
+  174  git checkout history
+  175  git checkout milkshake-flavours
+  176  git checkout main
+  177  git log
+  178  git branch
+  179  git checkout master
+  180  git branch
+  181  git branch history
+  182  cd history
+  183  git branch
+  184  cd history
+  185  git checkout history
+  186  git status
+  187  mkdir git-basic-exercises
+  188  cd git-basic-exercises
+  189  ls -a
+  190  git init
+  191  ls -a
+  192  git status
+  193  touch README.md
+  194  ls -a
+  195  git status
+  196  git log
+  197  git add README.md
+  198  git status
+  199  git reset README.md
+  200  git status
+  201  git add README.md 
+  202  git status
+  203  git commit -m "initial commit"
+  204  git log
+  205  q
+  206  #q
+  207  nano README.md
+  208  cat README.md
+  209  git status
+  210  git add README.md 
+  211  git commit -m "second commit"
+  212  nano README.md
+  213  git add README.md
+  214  git commit -m "third commit"
+  215  git log
+  216  #q
+  217  git checkout 85968a39cf327414ea4566988b06c0cbaab15894
+  218  cat README.md
+  219  git checkout main
+  220  git checkout master
+  221  cat README.md
+  222  git branch
+  223  git branch milkshake-flavours
+  224  git checkout milkshake-flavours
+  225  git branch
+  226  nano milkshakes.md
+  227  git status
+  228  git add milkshakes.md
+  229  git commit -m "added initial flavours"
+  230  git checkout master
+  231  git branch
+  232  git branch history
+  233  git checkout history
+  234  git log
+  235  git branch
+  236  history > history.txt
